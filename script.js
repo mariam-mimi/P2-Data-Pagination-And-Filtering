@@ -3,7 +3,7 @@ Treehouse Techdegree:
 FSJS Project 2 - Data Pagination and Filtering
 */
 
-alert('OMGG');
+console.log('OMGG');
 
 /*
 For assistance:
